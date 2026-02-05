@@ -2,20 +2,6 @@
 
 A full-stack contact management application built with React and Node.js that allows users to manage their personal contacts with features like favorites, tags, search, and filtering.
 
-## 📸 Screenshots
-
-### Login Page
-![Login Page](docs/screenshots/login.png)
-
-### Register Page
-![Register Page](docs/screenshots/register.png)
-
-### Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
-
-### Add/Edit Contact
-![Contact Modal](docs/screenshots/contact-modal.png)
-
 ## ✨ Features
 
 - **User Authentication**: Secure registration and login with JWT tokens
