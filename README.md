@@ -239,4 +239,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Contact Manager App - Built with ❤️
+naman kumar pandit
+
