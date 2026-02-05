@@ -228,7 +228,7 @@ This project is open source and available under the [MIT License](LICENSE).
 naman kumar pandit
 
 For references  : 
-frontend is deployed on vercel: practo-1st-assignemnt.vercel.app
+frontend is deployed on vercel: https://practo-1st-assignemnt.vercel.app/dashboard
 
 
 backend is deployed on : https://practo-1st-assignemnt.onrender.com/
